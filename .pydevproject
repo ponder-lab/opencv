@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+            
+    
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+            
+    
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+            
+    
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/samples/dnn/dnn_model_runner/dnn_conversion</path>
+        <path>/${PROJECT_DIR_NAME}/samples/dnn</path>
+        <path>/${PROJECT_DIR_NAME}/modules/core/misc/python/package</path>
+        <path>/${PROJECT_DIR_NAME}/modules/python/src2</path>
+        <path>/${PROJECT_DIR_NAME}/platforms</path>
+        <path>/${PROJECT_DIR_NAME}/modules/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/ts/misc</path>
+        <path>/${PROJECT_DIR_NAME}/modules/video/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/videoio/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/gapi/misc/python/package</path>
+        <path>/${PROJECT_DIR_NAME}/modules/gapi/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/gapi/misc/python/samples</path>
+        <path>/${PROJECT_DIR_NAME}/modules/python/package/extra_modules</path>
+        <path>/${PROJECT_DIR_NAME}/modules/python/package</path>
+        <path>/${PROJECT_DIR_NAME}/modules/gapi/samples/pipeline_modeling_tool</path>
+        <path>/${PROJECT_DIR_NAME}/modules/gapi/scripts</path>
+        <path>/${PROJECT_DIR_NAME}/modules/java</path>
+        <path>/${PROJECT_DIR_NAME}/modules/calib3d/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/dnn/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/dnn/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/features2d/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/flann/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/ml/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/objdetect/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/modules/stitching/misc/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/samples/gdb</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/core/AddingImages</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/core/discrete_fourier_transform</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/core/file_input_output</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/core/mat_mask_operations</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/core/mat_operations</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/dnn/dnn_conversion/common/test</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/dnn/dnn_conversion/pytorch/segmentation</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/features2D/akaze_matching</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/features2D/feature_description</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/features2D/feature_detection</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/features2D/feature_flann_matcher</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/features2D/feature_homography</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/features2D/Homography</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/highgui/trackbar</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/Histograms_Matching/back_projection</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/Histograms_Matching/histogram_calculation</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/Histograms_Matching/histogram_comparison</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python/tutorial_code/Histograms_Matching/histogram_equalization</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python</path>
+        <path>/${PROJECT_DIR_NAME}/modules/dnn/misc</path>
+    </pydev_pathproperty>
+        
+
+</pydev_project>
